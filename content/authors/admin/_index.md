@@ -17,21 +17,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Smart Grid
+- Optimal Control
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2020-now
+  - course: BSc in Software Engineering
+    institution: Huazhong University of Science & Technology
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chenbei Lu is a Ph.D. student of Computer Science and Technology in the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. He is supervised by Professor Chenye Wu. His research interests include smart grid, optimal control and game theoretical analysis on power systems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
