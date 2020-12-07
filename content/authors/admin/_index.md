@@ -66,7 +66,8 @@ user_groups:
 - Visitors
 ---
 
-Chenbei Lu is a Ph.D. student of Computer Science and Technology in the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. He is supervised by Professor Chenye Wu url: "www.chenyewu.cn". 
+Chenbei Lu is a Ph.D. student of Computer Science and Technology in the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. He is supervised by Professor Chenye Wu. 
+url: "www.wuchenye.cn" 
 
 Now, his research interests include smart grid, optimal control and game theoretical analysis on power systems. 
 
